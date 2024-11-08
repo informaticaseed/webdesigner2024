@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "8653e8606abe5380",
+    "type": "split",
+    "children": [
+      {
+        "id": "70904dbdd019739a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dee538b5ebeb6790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projeto Final/Descrição do Projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Descrição do Projeto"
+            }
+          },
+          {
+            "id": "52a93066eef999c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7a6ed4fb6c517d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "380108f59ef02318",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "184ab88e87464c87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "99c95350e150c94e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c3173c0b6f04fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e7ac1bf7d1850ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f68fd2b66b47849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c9b696ac0207ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projeto Final/Descrição do Projeto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Descrição do Projeto"
+            }
+          },
+          {
+            "id": "fe00344393fb4082",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projeto Final/Descrição do Projeto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Descrição do Projeto"
+            }
+          },
+          {
+            "id": "056e0d1cbc895187",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "83cbb659e45602e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projeto Final/Descrição do Projeto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Descrição do Projeto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dee538b5ebeb6790",
+  "lastOpenFiles": [
+    "Projeto Final/script.js",
+    "Projeto Final/style.css",
+    "Projeto Final/index.html",
+    "README.md",
+    "ementa.jpg",
+    "Imagem do WhatsApp de 2024-11-06 à(s) 14.10.29_e0b5a2a0.jpg",
+    "Projeto Final/Descrição do Projeto.md",
+    "5 Ideias de Projetos CRUD para Alunos de Web Design.md",
+    "Projeto Final/5 Ideias de Projetos CRUD para Alunos de Web Design.md",
+    "Projeto Final",
+    "New folder"
+  ]
+}

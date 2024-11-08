@@ -1,0 +1,78 @@
+/*
+  Estiliza o conteúdo da página, incluindo os títulos, contêineres, tabela de transações e botões.
+
+  Os estilos para os títulos, contêineres e tabela de transações 
+  visam melhorar a legibilidade e organização do conteúdo na página.
+
+  Os estilos para os botões visam torná-los mais atraentes e fáceis de usar.
+  Os botões das ações têm um estilo de hover que muda a cor de fundo
+  para uma cor mais escura ao passar o mouse sobre eles.
+  O botão de exclusão tem um estilo de hover específico que muda a cor
+  de fundo para uma cor mais escura ao passar o mouse sobre ele.
+*/
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Estilo para os títulos h1 e h2 */
+h1, h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Margem inferior para os contêineres de formulário e transações */
+#form-container, #transacoes-container {
+  margin-bottom: 30px;
+}
+
+/* Estilo para a tabela de transações */
+#transacoes-table {
+  width: 100%;
+  border-collapse: collapse; /* Remove espaços entre as bordas das células */
+}
+
+/* Estilo para as células de cabeçalho e de dados da tabela */
+#transacoes-table th, #transacoes-table td {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid #ddd; /* Borda das células */
+}
+
+/* Cor de fundo para as células de cabeçalho */
+#transacoes-table th {
+  background-color: #f2f2f2;
+}
+
+/* Estilo para os botões nas ações */
+ button {
+  background-color: #4CAF50; /* Cor de fundo verde */
+  color: white; /* Texto em branco */
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer; /* Muda o cursor ao passar sobre o botão */
+  border: none;
+  border-radius: 5px; /* Arredonda os cantos do botão */
+}
+
+/* Estilo de hover para os botões das ações */
+button:hover {
+  background-color: #45a049; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+/* Estilo específico para o botão de exclusão */
+.delete-button {
+  background-color: #f44336; /* Cor de fundo vermelha */
+}
+/* Estilo de hover específico para o botão de exclusão */
+.delete-button:hover {
+  background-color: #d93025; /* Cor de fundo mais escura ao passar o mouse */
+}
+
+
