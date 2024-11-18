@@ -72,7 +72,7 @@ Criar uma galeria online para exibir fotos de eventos escolares, viagens, ativid
 
 **Grupo 5 (2A)**: Davi, Vinícius, Arthur, Eduardo
 
-**Grupo 5 (2B)**: Débora, Bruna, Eduarda, Maria Letícia, Hosana, Máximus
+**Grupo 5 (2B)**: Ítalo, Nícolas, Murillo, Ana, João Victor, Lara
 
 ### Objetivo
 
