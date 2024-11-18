@@ -2,7 +2,9 @@
 
 ## 1. Banco de Livros da Biblioteca
 
-**Grupo 1**: Luiz Cláudio, Raiane, Ana Clara, Gabriel
+**Grupo 1 (2A)** : Luiz Cláudio, Raiane, Ana Clara, Gabriel
+
+**Grupo 1 (2B)** : Miguel , Isabela, Thiago, Pedro Henrique, Lisandra
 
 ### Objetivo
 
@@ -17,7 +19,9 @@ Criar um sistema para organizar os livros da biblioteca da escola.
 
 ## 2. Coleção de Música
 
-**Grupo 2**: Lucas Enrico, Henrique Nogueira, Marcos Vinícios
+**Grupo 2 (2A)**: Lucas Enrico, Henrique Nogueira, Marcos Vinícios
+
+**Grupo 2 (2B)**: Peter, Gaby, Gustavo, Sâmia, Jayana
 
 ### Objetivo
 
@@ -32,7 +36,9 @@ Criar um sistema para organizar a coleção de música da turma ou da escola.
 
 ## 3. Agenda de Eventos
 
-**Grupo 3**: Hiago, Ian, Victor, Luiz
+**Grupo 3 (2A)**: Hiago, Ian, Victor, Luiz
+
+**Grupo 3 (2B)** : Carlos, Rafael, Rafaella, Caio, Davi, Paulo
 
 ### Objetivo
 
@@ -47,7 +53,9 @@ Criar uma agenda online de eventos da escola, como palestras, apresentações, j
 
 ## 4. Galeria de Fotos
 
-**Grupo 4**: Giovana, Sara, Luz, Carlos Batista
+**Grupo 4 (2A)**: Giovana, Sara, Luz, Carlos Batista
+
+**Grupo 4 (2B)**: Débora, Bruna, Eduarda, Maria Letícia, Hosana, Máximus
 
 ### Objetivo
 
@@ -62,7 +70,9 @@ Criar uma galeria online para exibir fotos de eventos escolares, viagens, ativid
 
 ## 5. Sistema de Feedback para o Professor
 
-**Grupo 5**: Davi, Vinícius, Arthur, Eduardo
+**Grupo 5 (2A)**: Davi, Vinícius, Arthur, Eduardo
+
+**Grupo 5 (2B)**: Débora, Bruna, Eduarda, Maria Letícia, Hosana, Máximus
 
 ### Objetivo
 
@@ -75,50 +85,46 @@ Criar um sistema para que os alunos possam enviar feedback sobre as aulas do pro
 - **Atualização de Feedback**: O professor pode responder aos feedbacks dos alunos.
 - **Remoção de Feedback**: O professor pode remover feedbacks da lista.
 
-
-
 ----------------
 
 **Recursos Bônus:**
 
 - **Resumo dos Registros:** Mostrar um resumo dos registros adicionados no sistema (ex: "Foram adicionados 10 livros à biblioteca.").
-    
-- **Outras Informações Importantes:** Incluir outras funcionalidades relevantes para o projeto. Por exemplo:
-    
-    - **Ordenação:** Permitir que os usuários ordenem os registros (ex: por data, nome, etc.).
-        
-    - **Filtragem:** Permitir que os usuários filtrem os registros (ex: por gênero, autor, etc.).
-        
-    - **Visualização Detalhada:** Exibir detalhes de cada registro ao clicar em um botão.
 
+- **Outras Informações Importantes:** Incluir outras funcionalidades relevantes para o projeto. Por exemplo:
+  
+  - **Ordenação:** Permitir que os usuários ordenem os registros (ex: por data, nome, etc.).
+  
+  - **Filtragem:** Permitir que os usuários filtrem os registros (ex: por gênero, autor, etc.).
+  
+  - **Visualização Detalhada:** Exibir detalhes de cada registro ao clicar em um botão.
 
 **Pasta do Projeto:**
 
 Cada grupo deverá criar uma pasta para o seu projeto, com os seguintes arquivos:
 
 - **index.html:** O arquivo HTML principal do projeto.
-    
+
 - **style.css:** O arquivo CSS para a estilização do projeto.
-    
+
 - **script.js:** O arquivo JavaScript com a lógica do CRUD.
-    
 
 **Exemplo de Implementação (Gerenciador Financeiro):**
 
 - **index.html:**
-    
-    - O arquivo HTML principal da aplicação.
-        
-    - Utilize a estrutura do arquivo HTML fornecido.
-        
+  
+  - O arquivo HTML principal da aplicação.
+  
+  - Utilize a estrutura do arquivo HTML fornecido.
+
 - **style.css:**
-    
-    - O arquivo CSS com estilos para o layout da aplicação.
-        
-    - Utilize a estrutura do arquivo CSS fornecido.
-        
+  
+  - O arquivo CSS com estilos para o layout da aplicação.
+  
+  - Utilize a estrutura do arquivo CSS fornecido.
+
 - **script.js:**
-    
-    - O arquivo JavaScript com a implementação do CRUD.
-        
-    - Utilize o código JavaScript fornecido, adaptando para o seu projeto.
+  
+  - O arquivo JavaScript com a implementação do CRUD.
+  
+  - Utilize o código JavaScript fornecido, adaptando para o seu projeto.

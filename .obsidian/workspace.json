@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Projeto Final/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Projeto Final/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Projeto Final/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Projeto Final/README.md"
               },
               "icon": "lucide-list",
               "title": "Outline of README"
@@ -179,12 +179,12 @@
   },
   "active": "52a93066eef999c2",
   "lastOpenFiles": [
+    "README.md",
     "Projeto Final/Descrição do Projeto.md",
     "Projeto Final/README.md",
     "Projeto Final/script.js",
     "Projeto Final/style.css",
     "Projeto Final/index.html",
-    "README.md",
     "ementa.jpg",
     "Imagem do WhatsApp de 2024-11-06 à(s) 14.10.29_e0b5a2a0.jpg",
     "5 Ideias de Projetos CRUD para Alunos de Web Design.md",
