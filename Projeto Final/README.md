@@ -2,7 +2,7 @@
 
 ## 1. Banco de Livros da Biblioteca
 
-**Grupo 1 (2A)** : Luiz Cláudio, Raiane, Ana Clara, Gabriel
+**Grupo 1 (2A)** : Luiz Cláudio, Raiane, Ana Clara, Gabriel, Micaella
 
 **Grupo 1 (2B)** : Miguel , Isabela, Thiago, Pedro Henrique, Lisandra
 
@@ -19,7 +19,7 @@ Criar um sistema para organizar os livros da biblioteca da escola.
 
 ## 2. Coleção de Música
 
-**Grupo 2 (2A)**: Lucas Enrico, Henrique Nogueira, Marcos Vinícios
+**Grupo 2 (2A)**: Lucas Enrico, Henrique Nogueira, Marcos Vinícios, Guilherme e Ruan
 
 **Grupo 2 (2B)**: Peter, Gaby, Gustavo, Sâmia, Jayana
 
@@ -70,7 +70,7 @@ Criar uma galeria online para exibir fotos de eventos escolares, viagens, ativid
 
 ## 5. Sistema de Feedback para o Professor
 
-**Grupo 5 (2A)**: Davi, Vinícius, Arthur, Eduardo
+**Grupo 5 (2A)**: Davi, Vinícius, Arthur, Eduardo, Alexandre
 
 **Grupo 5 (2B)**: Ítalo, Nícolas, Murillo, Ana, João Victor, Lara
 
