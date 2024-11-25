@@ -21,7 +21,7 @@ Criar um sistema para organizar os livros da biblioteca da escola.
 
 **Grupo 2 (2A)**: Lucas Enrico, Henrique Nogueira, Marcos Vinícios, Guilherme e Ruan
 
-**Grupo 2 (2B)**: Peter, Gaby, Gustavo, Sâmia, Jayana
+**Grupo 2 (2B)**: Peter, Gaby, Gustavo, Sâmia, Jayana, Akira
 
 ### Objetivo
 
